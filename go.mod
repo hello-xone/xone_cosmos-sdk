@@ -1,6 +1,6 @@
 go 1.19
 
-module github.com/cosmos/cosmos-sdk
+module github.com/hello-xone/xone_cosmos-sdk
 
 require (
 	cosmossdk.io/api v0.3.1
